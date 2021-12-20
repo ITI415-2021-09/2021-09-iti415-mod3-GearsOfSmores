@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 5f07a52da52e24af1b58f7c3f631068c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2503142847694959829
+    second: Conifer Medium [Albedo]_0
+  - first:
+      213: -6725859900594394627
+    second: Conifer Medium [Albedo]_1
+  - first:
+      213: 4093354631252162009
+    second: Conifer Medium [Albedo]_2
+  - first:
+      213: 1186527692243910037
+    second: Conifer Medium [Albedo]_3
+  - first:
+      213: -8864154138146657585
+    second: Conifer Medium [Albedo]_4
+  - first:
+      213: -3496999807200020442
+    second: Conifer Medium [Albedo]_5
+  - first:
+      213: -4555524356382280154
+    second: Conifer Medium [Albedo]_6
+  - first:
+      213: 2595046068300683584
+    second: Conifer Medium [Albedo]_7
+  - first:
+      213: -182003089373920343
+    second: Conifer Medium [Albedo]_8
+  - first:
+      213: 7620714031821930484
+    second: Conifer Medium [Albedo]_9
+  - first:
+      213: 4868371887062388376
+    second: Conifer Medium [Albedo]_10
+  - first:
+      213: 1879068592314261994
+    second: Conifer Medium [Albedo]_11
+  - first:
+      213: 8279941484182384285
+    second: Conifer Medium [Albedo]_12
+  - first:
+      213: 4387172701471228434
+    second: Conifer Medium [Albedo]_13
+  - first:
+      213: 6030436257098744287
+    second: Conifer Medium [Albedo]_14
+  - first:
+      213: 2982602592639427589
+    second: Conifer Medium [Albedo]_15
+  - first:
+      213: -5463933011603865840
+    second: Conifer Medium [Albedo]_16
+  - first:
+      213: 4670191545153417445
+    second: Conifer Medium [Albedo]_17
+  - first:
+      213: -171506550637448898
+    second: Conifer Medium [Albedo]_18
+  - first:
+      213: -2174644812758772322
+    second: Conifer Medium [Albedo]_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 505, z: 796, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 512
+        width: 138
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d53c7f79548ec830800000000000000
+      internalID: 4093354631252162009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 971
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dbc5c46a4677010800000000000000
+      internalID: 1186527692243910037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 977
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa57196c23cf480800000000000000
+      internalID: -8864154138146657585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 969
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628bb380439287fc0800000000000000
+      internalID: -3496999807200020442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 976
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626b13cebb687c0c0800000000000000
+      internalID: -4555524356382280154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 974
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04916d466a4730420800000000000000
+      internalID: 2595046068300683584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 512
+        width: 139
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a308dd8725697df0800000000000000
+      internalID: -182003089373920343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conifer Medium [Albedo]_9
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 512
+        width: 133
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffb491290732c960800000000000000
+      internalID: 7620714031821930484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
